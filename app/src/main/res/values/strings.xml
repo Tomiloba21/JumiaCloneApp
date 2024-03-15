@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JumiaProbs</string>
+    <string name="jumia_logo">Jumia Logo</string>
+    <string name="address">Address</string>
+    <string name="go_back">GO BACK</string>
+    <string name="name">Name</string>
+    <string name="musa_mohammed">Musa Mohammed</string>
+    <string name="phone">09023765689</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="street">Street</string>
+    <string name="_123">123</string>
+    <string name="city">City</string>
+    <string name="street_add">agboju Road...</string>
+    <string name="save_as_primary_address">Save As Primary address</string>
+    <string name="save_address">Save Address</string>
+    <string name="lagos">Lagos</string>
+    <string name="goingBack"><![CDATA[<]]></string>
+</resources>
